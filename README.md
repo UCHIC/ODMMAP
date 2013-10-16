@@ -3,7 +3,7 @@ ODMMAP
 
 A map application for displaying sites and observations from an ODM database.
 
-![iUTAH](/doc/images/odmmap.jpg)
+<p align="center"><img src="https://github.com/UCHIC/ODMMAP/raw/master/doc/images/odmmap.jpg"></p>
 
 Sponsors
 ---------
