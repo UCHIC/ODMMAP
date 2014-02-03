@@ -1,7 +1,7 @@
 ODMMAP
 ======
 
-A map application for displaying sites and observations from an ODM database.
+A map application for displaying sites and observations from a CUAHSI HIS Observations Data Model (ODM) database.
 
 <p align="center"><img src="https://github.com/UCHIC/ODMMAP/raw/master/doc/images/odmmap.jpg"></p>
 
