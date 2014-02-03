@@ -5,7 +5,7 @@
 			<NetworkID>1</NetworkID>
 			<NetworkName>Red Butte Creek</NetworkName>
 			<DatabaseName>iUTAH_RedButte_OD</DatabaseName>
-			<DBConnection>Data Source=iutahdbs.uwrl.usu.edu;Database=iUTAH_RedButte_OD;user=WebApplication;password=W3bAppl1c4t10n!</DBConnection>
+			<DBConnection>Data Source=myserver.mydomain.com;Database=MyDatabaseName;user=MyUserName;password=MyDatabasePassword</DBConnection>
 			<Icon>red-dot.png</Icon>
 		</Network>
 	</Networks>
